@@ -27,7 +27,7 @@
 			"response": []
 		},
 		{
-			"name": "booking_2",
+			"name": "booking_3",
 			"request": {
 				"method": "POST",
 				"header": [
@@ -56,7 +56,7 @@
 			"response": []
 		},
 		{
-			"name": "booking_3",
+			"name": "booking_2",
 			"request": {
 				"method": "GET",
 				"header": [
